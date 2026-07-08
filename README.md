@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0520-detect-capital) |
@@ -42,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
 | ------- |
