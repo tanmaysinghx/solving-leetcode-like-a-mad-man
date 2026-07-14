@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0917-reverse-only-letters) |
 ## Stack
 |  |
