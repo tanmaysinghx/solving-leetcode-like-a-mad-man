@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0796-rotate-string) |
+| [0806-number-of-lines-to-write-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0806-number-of-lines-to-write-string) |
 ## Stack
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0014-longest-common-prefix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0806-number-of-lines-to-write-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0806-number-of-lines-to-write-string) |
 ## Trie
 |  |
 | ------- |
