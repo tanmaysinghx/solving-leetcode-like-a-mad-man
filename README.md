@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0806-number-of-lines-to-write-string) |
 ## Stack
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0383-ransom-note) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0771-jewels-and-stones](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0771-jewels-and-stones) |
 ## Counting
 |  |
 | ------- |
