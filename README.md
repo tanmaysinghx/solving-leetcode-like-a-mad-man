@@ -78,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0796-rotate-string) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
