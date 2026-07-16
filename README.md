@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0541-reverse-string-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0415-add-strings) |
 | [3945-digit-frequency-score](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3945-digit-frequency-score) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0383-ransom-note) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0771-jewels-and-stones) |
