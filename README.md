@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0383-ransom-note) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0459-repeated-substring-pattern) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0415-add-strings) |
 | [3945-digit-frequency-score](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3945-digit-frequency-score) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Monotonic Stack
 |  |
 | ------- |
