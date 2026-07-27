@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0821-shortest-distance-to-a-character) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0349-intersection-of-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0496-next-greater-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
