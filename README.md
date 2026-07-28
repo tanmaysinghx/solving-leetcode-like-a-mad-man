@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0496-next-greater-element-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Monotonic Stack
