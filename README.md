@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0496-next-greater-element-i) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0349-intersection-of-two-arrays) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
