@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0821-shortest-distance-to-a-character) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0771-jewels-and-stones) |
 | [3945-digit-frequency-score](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3945-digit-frequency-score) |
