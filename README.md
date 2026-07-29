@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0383-ransom-note) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0383-ransom-note) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
