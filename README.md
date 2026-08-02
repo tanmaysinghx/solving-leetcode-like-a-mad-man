@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0697-degree-of-an-array) |
 | [0806-number-of-lines-to-write-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0821-shortest-distance-to-a-character) |
+| [0877-stone-game](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Trie
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0415-add-strings) |
+| [0877-stone-game](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0877-stone-game) |
 | [3945-digit-frequency-score](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
@@ -145,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0219-contains-duplicate-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
