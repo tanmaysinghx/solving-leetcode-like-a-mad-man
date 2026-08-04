@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0771-jewels-and-stones) |
+| [3731-find-missing-elements](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
