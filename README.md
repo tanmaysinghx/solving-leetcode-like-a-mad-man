@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0917-reverse-only-letters) |
 | [3110-score-of-a-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3110-score-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0415-add-strings) |
+| [3838-weighted-word-mapping](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
