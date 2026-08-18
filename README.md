@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0824-goat-latin) |
 | [0917-reverse-only-letters](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0917-reverse-only-letters) |
+| [1108-defanging-an-ip-address](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/1108-defanging-an-ip-address) |
 | [2942-find-words-containing-character](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3110-score-of-a-string) |
