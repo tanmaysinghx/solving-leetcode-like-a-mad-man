@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3794-reverse-string-prefix](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0917-reverse-only-letters) |
+| [3794-reverse-string-prefix](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
