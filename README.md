@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0917-reverse-only-letters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3110-score-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3838-weighted-word-mapping](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -109,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0771-jewels-and-stones) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0383-ransom-note) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
