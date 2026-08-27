@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3794-reverse-string-prefix](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3838-weighted-word-mapping) |
 ## Stack
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0771-jewels-and-stones) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3945-digit-frequency-score) |
 ## Counting
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0383-ransom-note) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -183,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0051-n-queens) |
+## Greedy
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
