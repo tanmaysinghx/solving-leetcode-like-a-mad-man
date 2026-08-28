@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0058-length-of-last-word) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0242-valid-anagram) |
