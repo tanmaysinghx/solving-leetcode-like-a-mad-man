@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2942-find-words-containing-character](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/2942-find-words-containing-character) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3838-weighted-word-mapping) |
 ## Trie
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
