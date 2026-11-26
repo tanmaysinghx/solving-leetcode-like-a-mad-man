@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2942-find-words-containing-character](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/2942-find-words-containing-character) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3731-find-missing-elements) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0415-add-strings) |
 | [0877-stone-game](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0877-stone-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3945-digit-frequency-score](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3945-digit-frequency-score) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/0219-contains-duplicate-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -204,5 +207,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/tanmaysinghx/solving-leetcode-like-a-mad-man/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
